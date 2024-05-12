@@ -2,6 +2,7 @@
 #include <string>
 
 using namespace std;
+// a = b + c * d
 
 int main() {
     string a = "a";
